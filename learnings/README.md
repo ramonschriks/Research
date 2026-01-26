@@ -15,8 +15,6 @@ Distilled learnings from:
 |------|--------|-------|
 | ai-agent-architectures.md | research/ai-agent-architectures.md | MCP, LangGraph, agent architecture |
 | clawdbot-memory-system.md | research/clawdbot-memory-system.md | Memory architecture, vector search |
-| betting-strategies.md | Today's session | Accumulator + value betting frameworks |
-| football-updates.md | Today's session | Twitter automation, stale news filtering |
 
 ## Usage
 
