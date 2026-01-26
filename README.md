@@ -2,6 +2,10 @@
 
 Personal research and learnings for human consumption.
 
+## Location
+
+This repo lives at: `~/repositories/Research/`
+
 ## Structure
 
 | Folder | Purpose |
@@ -20,6 +24,7 @@ Personal research and learnings for human consumption.
 ## Related
 
 - [clawd-config](https://github.com/ramonschriks/clawd-config) - Clawdbot AI configuration
+- All repositories: `~/repositories/`
 
 ---
 
