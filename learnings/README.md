@@ -15,6 +15,8 @@ Distilled learnings from:
 |------|--------|-------|
 | ai-agent-architectures.md | research/ai-agent-architectures.md | MCP, LangGraph, agent architecture |
 | clawdbot-memory-system.md | research/clawdbot-memory-system.md | Memory architecture, vector search |
+| hybrid-memory-search-patterns.md | Today's session | Vector+FTS5 vs Vector+Graph patterns |
+| text-embeddings.md | 2026-01-26 | Text embeddings fundamentals |
 
 ## Usage
 
